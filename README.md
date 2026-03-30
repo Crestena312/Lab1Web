@@ -5,7 +5,7 @@
 
 Назва лабораторної роботи: Розробка статичного інтерфейсу Web-додатка
 
-Звіт Посилання на звіт:
+Звіт Посилання на звіт:https://docs.google.com/document/d/1irPQiz91KUldgSycZG94xI6bzVXnEMj03OK8xpv2Dc0/edit?tab=t.0
 
 Мета: ознайомитись із засобами мов HTML5 та CSS3 та навчитись застосовувати бібліотеки Twitter Bootstrap/Tailwind CSS/Material UI щодо швидкої побудови Web-інтерфейсу користувача.
 
